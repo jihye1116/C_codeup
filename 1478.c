@@ -12,8 +12,8 @@ int main(){
             for(int i=0; i<n; i++){
 			for(int j=0; j<m; j++){
 					if(i+j == x)a[i][j]=in++;
-				}
 			}
+	    }
     }
 
     for(int i=0; i<n; i++){
